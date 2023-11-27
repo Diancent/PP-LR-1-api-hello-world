@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Output of the 'coverage' tool
+htmlcov/
+
+# IDE files
+.idea/
+*.iml
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db
